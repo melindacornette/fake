@@ -1,44 +1,44 @@
 {
-  events: [
+  "events": [
     {
-      id: 1,
-      category: "concert",
-      title: "Tomorrow Land",
-      description: "Festival op De Schorre",
-      location: "Boom",
-      date: "July 16 & 17, 2021",
-      time: "09:00",
-      imagePath: "tomorrowland.png",
+      "id": 1,
+      "category": "concert",
+      "title": "Tomorrow Land",
+      "description": "Festival op De Schorre",
+      "location": "Boom",
+      "date": "July 16 & 17, 2021",
+      "time": "09:00",
+      "imagePath": "tomorrowland.png"
     },
     {
-      id: 2,
-      category: "concert",
-      title: "Rock Werchter",
-      description: "Rock Festival",
-      location: "Werchter",
-      date: "July 4, 2021",
-      time: "09:00",
-      imagePath: "rockwerchter.png",
+      "id": 2,
+      "category": "concert",
+      "title": "Rock Werchter",
+      "description": "Rock Festival",
+      "location": "Werchter",
+      "date": "July 4, 2021",
+      "time": "09:00",
+      "imagePath": "rockwerchter.png"
     },
     {
-      id: 3,
-      category: "concert",
-      title: "Pukkelpop",
-      description: "Festival Rock",
-      location: "Hasselt",
-      date: "July 22 2021",
-      time: "09:00",
-      imagePath: "pukkelpop.png",
+      "id": 3,
+      "category": "concert",
+      "title": "Pukkelpop",
+      "description": "Festival Rock",
+      "location": "Hasselt",
+      "date": "July 22 2021",
+      "time": "09:00",
+      "imagePath": "pukkelpop.png"
     },
     {
-      id: 4,
-      category: "concert",
-      title: "Graspop",
-      description: "Festival Rock",
-      location: "Dessel",
-      date: "July 04 2021",
-      time: "09:00",
-      imagePath: "graspop.png",
-    },
+      "id": 4,
+      "category": "concert",
+      "title": "Graspop",
+      "description": "Festival Rock",
+      "location": "Dessel",
+      "date": "July 04 2021",
+      "time": "09:00",
+      "imagePath": "graspop.png"
+    }
   ]
 }
