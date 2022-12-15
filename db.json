@@ -11,8 +11,8 @@
       "imagePath": "tomorrowland.png",
       "features": [
         {
-          "parking": false,
-          "mindervalide": true,
+          "parking": true,
+          "mindervalide": false,
           "foodtrucks": true
         }
       ]
