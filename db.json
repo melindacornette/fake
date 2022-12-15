@@ -39,11 +39,13 @@
       "date": "July 22 2021",
       "time": "09:00",
       "imagePath": "pukkelpop.png",
-      "features": {
-        "parking": false,
-        "mindervalide": true,
-        "foodtrucks": true
-      }
+      "features": [
+        {
+          "parking": false,
+          "mindervalide": true,
+          "foodtrucks": true
+        }
+      ]
     },
     {
       "id": 4,
