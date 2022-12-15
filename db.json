@@ -41,7 +41,7 @@
       "imagePath": "pukkelpop.png",
       "features": {
         "parking": false,
-        "disabled": true,
+        "disabled": false,
         "foodtrucks": true
       }
     },
