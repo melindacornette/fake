@@ -8,7 +8,12 @@
       "location": "Boom",
       "date": "July 16 & 17, 2021",
       "time": "09:00",
-      "imagePath": "tomorrowland.png"
+      "imagePath": "tomorrowland.png",
+      "features": {
+        "parking": true,
+        "disabled": true,
+        "foodtrucks": true
+      }
     },
     {
       "id": 2,
@@ -18,7 +23,12 @@
       "location": "Werchter",
       "date": "July 4, 2021",
       "time": "09:00",
-      "imagePath": "rockwerchter.png"
+      "imagePath": "rockwerchter.png",
+      "features": {
+        "parking": true,
+        "disabled": true,
+        "foodtrucks": true
+      }
     },
     {
       "id": 3,
@@ -28,7 +38,12 @@
       "location": "Hasselt",
       "date": "July 22 2021",
       "time": "09:00",
-      "imagePath": "pukkelpop.png"
+      "imagePath": "pukkelpop.png",
+      "features": {
+        "parking": true,
+        "disabled": true,
+        "foodtrucks": true
+      }
     },
     {
       "id": 4,
@@ -38,7 +53,12 @@
       "location": "Dessel",
       "date": "July 04 2021",
       "time": "09:00",
-      "imagePath": "graspop.png"
+      "imagePath": "graspop.png",
+      "features": {
+        "parking": true,
+        "disabled": true,
+        "foodtrucks": true
+      }
     }
   ]
 }
