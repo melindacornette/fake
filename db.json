@@ -15,6 +15,27 @@
           "mindervalide": false,
           "foodtrucks": true
         }
+      ],
+      "LineUp": [
+        {
+          "Artiest": "Amelie Lens",
+          "Date": "July 16",
+          "Time": "14:00 - 15:30",
+          "Podium": "Stage 1"
+        },
+        {
+          "Artiest": "Adam Beyer",
+          "Date": "July 16",
+          "Time": "14:00 - 15:30",
+          "Podium": "Stage 2"
+        },
+        {
+          "Artiest": "Armin van Buuren",
+          "Date": "July 16",
+          "Time": "15:30 - 17:00",
+          "Podium": "Stage 1"
+        }
+
       ]
     },
     {
